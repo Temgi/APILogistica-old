@@ -1,6 +1,6 @@
 <div>
-    <h1 align="center">API para Logística</h1>
-    <h6 align="center">API-Rest para Controle de Entregas</h6>
+    <h1 align="center">API-REST para Logística</h1>
+    <h6 align="center">End-Point para Controle de Entregas</h6>
 </div>
 <br><br>
 
