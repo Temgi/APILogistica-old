@@ -110,7 +110,7 @@ CREATE SCHEMA `algalog`;
 ~~~
 <br>
 
-2-Script SQL para Popular Tabela TITULO
+2-Script SQL para Popular Tabela CLIENTE
 ~~~sql
 INSERT INTO cliente(nome, email, fone)
 VALUES('João da Silva', 'joaodasilva@email.com', '11-99955-3333');
