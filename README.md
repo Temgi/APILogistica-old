@@ -96,6 +96,12 @@ https://dev.mysql.com/downloads/windows/installer/8.0.html
 <br>
 https://www.alura.com.br/artigos/mysql-do-download-e-instalacao-ate-sua-primeira-tabela
 <br><br>
+4-Baixar e Instalar o Postman Seguindo os Links Abaixo:
+<br>
+https://www.postman.com/downloads/
+<br>
+https://www.alura.com.br/artigos/postman-como-instalar-dar-seus-primeiros-passos
+<br><br>
 
 ### Configuração Banco de Dados
 1-Script SQL para Criação do Banco de Dados
@@ -119,7 +125,7 @@ VALUES('Maria Abadia', 'mariaabadia@email.com', '11-99888-4444');
 
 
 #### Clonar Repositório
-git clone https://github.com/Temgi/APILogistica.git
+- git clone https://github.com/Temgi/APILogistica.git
 
 #### Executar o Projeto
 - Baixar e Descompactar o Apache Maven apache-maven-3.8.4 no Unidade C:\
@@ -135,7 +141,10 @@ git clone https://github.com/Temgi/APILogistica.git
 
 - Acessar no Prompt de Comando o Caminho da Pasta [target] do Projeto [APILogistica]
 - No Prompt Executar o Comando [java -jar AppLogistica.jar]
-- <a href="https://github.com/Temgi/APILogistica/blob/main/assets/API%20-%20Externo(Nuvem).zip" target="_blank" rel="noopener">Baixar o Collection Resources do Postman</a>
+- Baixar o Collection Resources do Postman logo Abaixo:<br>
+  https://github.com/Temgi/APILogistica/blob/main/assets/API%20-%20Externo(Nuvem).zip
+- Abrir o Postman e Importar a Collection conforme Link Abaixo:<br>
+  https://learning.postman.com/docs/getting-started/importing-and-exporting-data/
 
 
 ## 📝 **Autor**
