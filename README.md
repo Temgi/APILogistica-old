@@ -71,6 +71,7 @@ Sendo Constituida de End-Points envolve o Processo de Pedidos com as Entidades E
         <li> Lombok</li>
         <li> Maven</li>
         <li> Apache TomCat</li>
+        <li> Flyway</li>
         <li> Model Mapper</li>
         <li> JPA-Hibernate</li>
         <li> Bean Validation</li>
