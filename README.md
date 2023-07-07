@@ -63,15 +63,18 @@ Sendo Constituida de End-Points envolve o Processo de Pedidos com as Entidades E
 ### Back-End
 <ul>
         <li> Java 11</li>
-        <li> Spring MVC</li>
+        <li> Spring Framework</li>
+        <li> Spring Boot</li>
         <li> Spring Data JPA</li>
-        <li>Spring Boot Devtools</li>
-        <li> Thymeleaf</li>
+        <li> Jackson JSON</li>
+        <li> Postman</li>
+        <li> Lombok</li>
         <li> Maven</li>
         <li> Apache TomCat</li>
+        <li> Model Mapper</li>
         <li> JPA-Hibernate</li>
-        <li>Bean Validation</li>
-        <li>MySQL</li>
+        <li> Bean Validation</li>
+        <li> MySQL</li>
 </ul>
 
 ## 🔥 Modelo Entidade Relacionamento
