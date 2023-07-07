@@ -16,6 +16,20 @@ Sendo Constituida de End-Points envolve o Processo de Pedidos com as Entidades E
 
 <a href="http://app-java.ddns.net:8082/clientes" target="_blank" rel="noopener">Link do Projeto para Acesso Online</a>
 
+## 📗 Sumário
+
+* [Acesso ao End-Point Listar](#-acesso-ao-end-point-listar)
+* [Acesso ao End-Point Adicionar](#-acesso-ao-end-point-adicionar)
+* [Organização de Pacotes](#-organização-de-pacotes)
+* [Features](#%EF%B8%8F-features)
+* [Acesso ao End-Point Atualizar](#-acesso-ao-end-point-atualizar)
+* [Acesso ao End-Point Remover](#%EF%B8%8F-acesso-ao-end-point-remover)
+* [Estrutura de Classes](#-estrutura-de-classes)
+* [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+* [Modelo Entidade Relacionamento](#-modelo-entidade-relacionamento)
+* [Como Executar o Projeto](#-como-executar-o-projeto)
+* [Autor](#-autor)
+
 ## 💻 Acesso ao End-Point Listar
 <br>
 
