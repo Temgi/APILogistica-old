@@ -30,15 +30,15 @@ Sendo Constituida de End-Points envolve o Processo de Pedidos com as Entidades E
 * [Como Executar o Projeto](#-como-executar-o-projeto)
 * [Autor](#-autor)
 
-## 💻 Acesso ao End-Point Listar
+## 💻 End-Point /Clientes para Listagem
 <br>
 
-![End-Point Listar](https://github.com/Temgi/APILogistica/blob/main/assets/API-EndPoint1.png)
+![End-Point Listagem](https://github.com/Temgi/APILogistica/blob/main/assets/API-EndPoint1.png)
 
-## 🎨 Acesso ao End-Point Adicionar
+## 🎨 End-Point /Clientes para Cadastro
 <br>
 
-![End-Point Adicionar](https://github.com/Temgi/APILogistica/blob/main/assets/API-EndPoint3.png)
+![End-Point Cadastro](https://github.com/Temgi/APILogistica/blob/main/assets/API-EndPoint3.png)
 
 ## 👓 Organização de Pacotes
 <br>
@@ -63,15 +63,15 @@ Sendo Constituida de End-Points envolve o Processo de Pedidos com as Entidades E
 - [x] Implementação de Sub-Recursos de Coleção
 - [x] Implementação de Ação Não-CRUD(Processos de Negócios)
 
-## 💡 Acesso ao End-Point Atualizar
+## 💡 End-Point /Clientes para Atualização
 <br>
 
-![End-Point Atualizar](https://github.com/Temgi/APILogistica/blob/main/assets/API-EndPoint4.png)
+![End-Point Atualização](https://github.com/Temgi/APILogistica/blob/main/assets/API-EndPoint4.png)
 
-## 🛰️ Acesso ao End-Point Remover
+## 🛰️ End-Point /Clientes para Exclusão
 <br>
 
-![End-Point Remover](https://github.com/Temgi/APILogistica/blob/main/assets/API-EndPoint5.png)
+![End-Point Exclusão](https://github.com/Temgi/APILogistica/blob/main/assets/API-EndPoint5.png)
 
 ## 🎯 Estrutura de Classes
 <br>
