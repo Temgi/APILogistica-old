@@ -47,16 +47,21 @@ Sendo Constituida de End-Points envolve o Processo de Pedidos com as Entidades E
 
 ## ⚙️ Features
 
-- [x] Inclusão de Boletos
-- [x] Botões para Manipulação de Registros
-- [x] Componente de Messagem
-- [x] Validação de Campos
-- [x] Pesquisa de Boletos
-- [x] Atualização de Status
-- [x] Exclusão de Boletos
-- [x] App Mobile Responsivo
-- [x] Componente de Calendário
-- [x] Modal de Exclusão
+- [x] Collection Resources
+- [x] End-Point(CRUD) para /Clientes
+- [x] Representação em JSON e XML
+- [x] Versionamento de Database(Migration)
+- [x] Validação de Dados
+- [x] Exception Handler Customizado
+- [x] Camada de Domain Services
+- [x] End-Point(CRUD) para /Entregas
+- [x] Validação em Cascata
+- [x] Validation Group
+- [x] Padrão de Data e Hora ISO-8601
+- [x] Separação entre Domain Model e Representation Model
+- [x] Padrão DTO com Model Mapper
+- [x] Implementação de Sub-Recursos de Coleção
+- [x] Implementação de Ação Não-CRUD(Processos de Negócios)
 
 ## 💡 Acesso ao End-Point Atualizar
 <br>
