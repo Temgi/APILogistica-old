@@ -18,12 +18,12 @@ Sendo Constituida de End-Points envolve o Processo de Pedidos com as Entidades E
 
 ## 📗 Sumário
 
-* [Acesso ao End-Point Listar](#-acesso-ao-end-point-listar)
-* [Acesso ao End-Point Adicionar](#-acesso-ao-end-point-adicionar)
+* [End-Point para Listagem](#-end-point-clientes-para-listagem)
+* [End-Point para Cadastro](#-end-point-clientes-para-cadastro)
 * [Organização de Pacotes](#-organização-de-pacotes)
 * [Features](#%EF%B8%8F-features)
-* [Acesso ao End-Point Atualizar](#-acesso-ao-end-point-atualizar)
-* [Acesso ao End-Point Remover](#%EF%B8%8F-acesso-ao-end-point-remover)
+* [End-Point para Atualização](#-end-point-clientes-para-atualização)
+* [End-Point para Exclusão](#%EF%B8%8F-end-point-clientes-para-exclusão)
 * [Estrutura de Classes](#-estrutura-de-classes)
 * [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 * [Modelo Entidade Relacionamento](#-modelo-entidade-relacionamento)
