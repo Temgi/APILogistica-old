@@ -60,7 +60,7 @@ Sendo Formada de End-Points envolvendo o Processo de Pedidos, tendo como Base as
 - [x] Padrão ISO-8601 para Data e Hora
 - [x] Separação entre Domain Model e Representation Model
 - [x] Padrão DTO com Model Mapper
-- [x] Implementação de Sub-Recursos de Coleção
+- [x] Emgrego de Sub-Recursos de API
 - [x] Implementação de Ação Não-CRUD(Processos de Negócios)
 
 ## 💡 End-Point /Clientes para Atualização
